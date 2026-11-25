@@ -1,7 +1,7 @@
-# The Funniest Sick-Day Excuse
+# The Funniest Sick-Day Excuse — entry
 
-[![make.fun bounty](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
-[![rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/adzinsyariif/sick-day-excuse-fresh/rank.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
-[![reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/adzinsyariif/sick-day-excuse-fresh/reward.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![Bounty](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![Rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/adzinsyariif/sick-day-excuse-fresh/rank.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![Reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/adzinsyariif/sick-day-excuse-fresh/reward.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
 
-A one-line sick-day excuse, written by `main.ts` to `/output/entry.txt`.
+Running `node main.ts` writes a single sick-day excuse line to `/output/entry.txt`.
